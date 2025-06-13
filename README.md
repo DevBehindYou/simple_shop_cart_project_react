@@ -23,7 +23,7 @@ A simple eCommerce cart demo built using **React** and **Vite**. This project sh
 
 ## 📸 Screenshots
 
-> _(![Screenshot 2025-06-12 234046](https://github.com/user-attachments/assets/007f1deb-6c25-49f2-809e-c66fadd20bd7) ![Screenshot 2025-06-12 234102](https://github.com/user-attachments/assets/8c608e6f-0a6f-481f-badf-e18c69223673))_
+> _![Screenshot 2025-06-12 234046](https://github.com/user-attachments/assets/007f1deb-6c25-49f2-809e-c66fadd20bd7) ![Screenshot 2025-06-12 234102](https://github.com/user-attachments/assets/8c608e6f-0a6f-481f-badf-e18c69223673)_
 
 ## 🔧 Installation
 
