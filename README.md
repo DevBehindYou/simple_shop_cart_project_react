@@ -2,9 +2,6 @@
 
 A simple eCommerce cart demo built using **React** and **Vite**. This project showcases a dynamic product listing with a cart system, toast notifications, and modern UI styling — all without any external state management libraries.
 
-## 🌐 Now Live
-
-👉 [Open MyToDo App]()
 
 ## 🚀 Features
 
